@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs
+/Arrays/.vs/Arrays
+/Arrays/Arrays/x64/Debug
+/Arrays/x64/Debug
